@@ -41,7 +41,7 @@ This lab explores foundational reinforcement learning concepts through practical
 - **FrozenLake-v1**: 1.8% success rate (average return: 0.02)
 - **Taxi-v3**: Average return: -769.79
 
-## Installation
+## Installation of Requirements
 
 ```bash
 pip install gymnasium numpy matplotlib
