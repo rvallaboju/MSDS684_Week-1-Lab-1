@@ -1,0 +1,5 @@
+# requirements.txt for Week 1 Lab: Multi-Armed Bandits and MDP Foundations
+
+numpy>=1.21.0
+matplotlib>=3.4.0
+gymnasium>=0.29.0
